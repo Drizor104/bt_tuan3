@@ -1,0 +1,34 @@
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\ADMIN\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SERVER.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CLIENT.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\ADMIN\Desktop\HERE\REPOSITORIES\[LTM] C# - LAB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\bin\Debug\WindowsFormsApp1.exe
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.SERVER.resources
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.CLIENT.resources
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.exe
+C:\Users\AN515-54\Downloads\Compressed\Assignment 3 - UDP Chat Client-Server - 21522292\obj\Debug\WindowsFormsApp1.pdb
